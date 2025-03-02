@@ -11,7 +11,7 @@ This project analyzes bike sales data, builds an Excel dashboard, answers SQL qu
 - **Deployment**: Deployed the web app on Render.
 
 ## Dataset
-The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/).
+The dataset used in this project is sourced from [https://www.kaggle.com/datasets/ak0212/indian-bike-sales-dataset).
 
 ## Repository Files
 - **Bike_Sales_Analysis_DASHBOARD.xlsx**: Excel dashboard with pivot tables and charts.
