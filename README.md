@@ -36,7 +36,7 @@ The dataset used in this project is sourced from [https://www.kaggle.com/dataset
 - **Render: For deployment.**
 
 ## Deployment
-The web application is deployed on [Render](https://render.com/). You can access it [here]([https://bike-resale-price-prediction-system.onrender.com/)].
+The web application is deployed on [Render](https://render.com/). You can access it [here](https://bike-resale-price-prediction-system.onrender.com/).
 
 ## Usage
 1. Clone the repository:
